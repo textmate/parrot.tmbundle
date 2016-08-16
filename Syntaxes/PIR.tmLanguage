@@ -6,10 +6,6 @@
 	<array>
 		<string>pir</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>\.sub</string>
-	<key>foldingStopMarker</key>
-	<string>\.end</string>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
 	<key>name</key>
